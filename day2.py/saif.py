@@ -1,0 +1,5 @@
+num_char1=input("Enter the first no: ")
+num_char2=input("Enter the second no: ")
+result=int(num_char1) + int(num_char2)
+print(result)
+# print(type(result))

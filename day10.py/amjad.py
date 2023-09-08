@@ -1,0 +1,5 @@
+age  = int(input("enter your age: "))
+name = input("Enter your name: ")
+study = input("Enter your current education: ")
+# print(f"your age is {age}, your name {name}, your education is {study} ")
+print("your name is ",name + "your age is",age + "your education is",study)

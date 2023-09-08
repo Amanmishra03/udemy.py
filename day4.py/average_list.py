@@ -1,0 +1,6 @@
+student_height = input("Enter the list of the student: ").split()
+print(student_height)
+# student_heights = int(student_height)
+# total_height = int(sum(student_heights))
+# no_of_student = len(student_heights)
+# average_height = round(total_height/no_of_student)
