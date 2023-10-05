@@ -41,5 +41,5 @@ while len(guessed_states)<50:
         t.write(answer_state)
 
 
-# states_to_lear.csv
+# states_to_learn.csv
 
